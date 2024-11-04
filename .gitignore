@@ -192,3 +192,18 @@ Plugins/**/Intermediate/*
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine,rider,visualstudiocode
+
+## FMOD
+# FMOD Content
+Content/FMOD/Banks/
+Content/FMOD/Buses/
+Content/FMOD/Events/
+Content/FMOD/Ports/
+Content/FMOD/PrivateIntegrationData/
+Content/FMOD/Reverbs/
+Content/FMOD/Snapshots/
+Content/FMOD/VCAs/
+
+# FMOD Plugins
+Plugins/FMODStudio/
+Plugins/FMODStudioNiagara/
